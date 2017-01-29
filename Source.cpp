@@ -451,7 +451,7 @@ void BFSshortestPath(Graph &G, int s)
 int main()
 {
 	string fileNom;
-	fileNom = "D:/coursera/stanford data struc and algos/4/test.txt"; //file path and file name
+	fileNom = "D:/test.txt"; //file path and file name of the matrix
 	Graph X;
 	X.Nvertices = 0;
 	X.Medges = 0;
